@@ -1,9 +1,5 @@
 # Zelda Recipes JSON
 
-## Important
-
-Recipe descriptions will be implemented in the near future.
-
 ## About
 
 This repository provides a complete, open-source JSON dataset of all 187 recipes from *The Legend of Zelda: Tears of the Kingdom*. This dataset was originally created for the Hyrule Cookbook project but is now maintained separately for public use.
