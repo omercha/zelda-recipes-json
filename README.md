@@ -20,7 +20,6 @@ Each recipe object in the JSON array follows this structure:
     "Any Mushroom"
   ],
   "image": "https://www.zeldadungeon.net/wiki/images/1/1d/Mushroom_Skewer_-_TotK_icon.png",
-  "description": "This simple mushroom-packed skewer has its colorful presentation to thank for its appeal."
   "method": "pot"
 }
 ```
