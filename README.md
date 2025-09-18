@@ -27,7 +27,7 @@ Each recipe object in the JSON array follows this structure:
 -   **`id`**: (Number) The position of the recipe in the game's cookbook.
 -   **`name`**: (String) The name of the recipe.
 -   **`ingredients`**: (Array of Strings) A list of ingredients required to make the recipe.
--   **`image`**: (String) A URL to an image of the recipe icon from zeldadungeon.net.
+-   **`image`**: (String) A URL to the recipe icon from [zeldadungeon.net/wiki](https://www.zeldadungeon.net/wiki/Main_Page).
 -   **`method`**: (String) How the recipe is cooked. Values: "pot", "extreme_heat", "extreme_cold" or "hot_spring".
 
 ## Contributing
