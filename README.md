@@ -1,8 +1,6 @@
-# Zelda Recipes JSON
-
 ## About
 
-This repository provides a complete, open-source JSON dataset of all 187 recipes from *The Legend of Zelda: Tears of the Kingdom*. This dataset was originally created for the Hyrule Cookbook project but is now maintained separately for public use.
+This repository provides a complete, open-source JSON dataset of all 228 recipes from *The Legend of Zelda: Tears of the Kingdom*. This dataset was originally created for the [Hyrule Cookbook](https://github.com/omercha/hyrule-cookbook) project but is now maintained separately for public use.
 
 ## Usage
 
@@ -22,7 +20,6 @@ Each recipe object in the JSON array follows this structure:
     "Any Mushroom"
   ],
   "image": "https://www.zeldadungeon.net/wiki/images/1/1d/Mushroom_Skewer_-_TotK_icon.png",
-  "description": "This simple mushroom-packed skewer has its colorful presentation to thank for its appeal."
   "method": "pot"
 }
 ```
@@ -31,7 +28,6 @@ Each recipe object in the JSON array follows this structure:
 -   **`name`**: (String) The name of the recipe.
 -   **`ingredients`**: (Array of Strings) A list of ingredients required to make the recipe.
 -   **`image`**: (String) A URL to an image of the recipe icon from zeldadungeon.net.
--   **`description`**: (String) The description of the recipe provided by the game.
 -   **`method`**: (String) How the recipe is cooked. Values: "pot", "extreme_heat", "extreme_cold" or "hot_spring".
 
 ## Contributing
