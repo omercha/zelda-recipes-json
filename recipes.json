@@ -5,7 +5,6 @@
         "ingredients": [
             "Any Mushroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1d/Mushroom_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -15,7 +14,6 @@
             "Any Mushroom",
             "Any Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/ed/Meat_and_Mushroom_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -25,7 +23,6 @@
             "Any Fish",
             "Any Mushroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/33/Fish_and_Mushroom_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -34,7 +31,6 @@
         "ingredients": [
             "Any Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/78/Meat_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -43,7 +39,6 @@
         "ingredients": [
             "Any Fish"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/7d/Fish_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -52,7 +47,6 @@
         "ingredients": [
             "Any Snail or Crab"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/b8/Seafood_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -61,7 +55,6 @@
         "ingredients": [
             "Any four different Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/65/Copious_Meat_Skewers_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -70,7 +63,6 @@
         "ingredients": [
             "Any four different Fish"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/03/Copious_Seafood_Skewers_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -80,7 +72,6 @@
             "Any Fruit (excluding Hylian Tomato)",
             "Any Vegetable, Flower, or Herb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/93/Steamed_Fruit_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -90,7 +81,6 @@
             "Hylian Tomato",
             "Any Vegetable, Flower, or Herb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Steamed_Tomatoes_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -100,7 +90,6 @@
             "Any Mushroom",
             "Any Vegetable, Flower, or Herb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/17/Steamed_Mushrooms_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -110,7 +99,6 @@
             "Any Meat",
             "Any Vegetable, Flower, or Herb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f1/Steamed_Meat_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -120,7 +108,6 @@
             "Any Fish",
             "Any Vegetable, Flower, or Herb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/48/Steamed_Fish_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -129,7 +116,6 @@
         "ingredients": [
             "Spicy Pepper"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c6/Saut%C3%A9ed_Peppers_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -138,7 +124,6 @@
         "ingredients": [
             "Any Nut"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/21/Saut%C3%A9ed_Nuts_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -147,7 +132,6 @@
         "ingredients": [
             "Any Vegetable, Flower, or Herb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/5a/Fried_Wild_Greens_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -156,7 +140,6 @@
         "ingredients": [
             "Any four different Vegetables, Flowers, or Herbs"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/03/Copious_Fried_Wild_Greens_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -165,7 +148,6 @@
         "ingredients": [
             "Stambulb"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/a9/Cooked_Stambulb_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -175,7 +157,6 @@
             "Stambulb",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/82/Buttered_Stambulb_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -184,7 +165,6 @@
         "ingredients": [
             "Any four different Mushrooms"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/da/Copious_Mushroom_Skewers_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -194,7 +174,6 @@
             "Raw Meat",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f9/Spiced_Meat_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -204,7 +183,6 @@
             "Raw Prime Meat",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/d9/Prime_Spiced_Meat_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -214,7 +192,6 @@
             "Raw Gourmet Meat",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/fc/Gourmet_Spiced_Meat_Skewer_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -224,7 +201,6 @@
             "Any Crab",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/6d/Crab_Stir-Fry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -234,7 +210,6 @@
             "Raw Meat or Raw Bird Drumstick",
             "Any Seafood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/77/Meat_and_Seafood_Fry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -244,7 +219,6 @@
             "Raw Prime Meat or Raw Bird Thigh",
             "Any Seafood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/fe/Prime_Meat_and_Seafood_Fry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -254,7 +228,6 @@
             "Raw Gourmet Meat or Raw Whole Bird",
             "Any Seafood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/d8/Gourmet_Meat_and_Seafood_Fry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -264,7 +237,6 @@
             "Any Herb or Flower",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/92/Salt-Grilled_Greens_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -274,7 +246,6 @@
             "Any Mushroom",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/35/Salt-Grilled_Mushrooms_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -284,7 +255,6 @@
             "Raw Meat or Raw Bird Drumstick",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2c/Salt-Grilled_Meat_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -294,7 +264,6 @@
             "Raw Prime Meat or Raw Bird Thigh",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/42/Salt-Grilled_Prime_Meat_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -304,7 +273,6 @@
             "Raw Gourmet Meat or Raw Whole Bird",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e0/Salt-Grilled_Gourmet_Meat_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -314,7 +282,6 @@
             "Any Fish",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3a/Salt-Grilled_Fish_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -324,7 +291,6 @@
             "Any Crab",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/19/Salt-Grilled_Crab_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -334,7 +300,6 @@
             "Any Herb, Flower, or Vegetable",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/55/Herb_Saut%C3%A9_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -344,7 +309,6 @@
             "Any Mushroom",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Fragrant_Mushroom_Saut%C3%A9_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -354,7 +318,6 @@
             "Any Meat",
             "Spicy Pepper"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e9/Pepper_Steak_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -364,7 +327,6 @@
             "Any Seafood or Fish",
             "Spicy Pepper"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/ad/Pepper_Seafood_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -375,7 +337,6 @@
             "Stambulb",
             "Oil Jar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/22/Fragrant_Seafood_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -385,7 +346,6 @@
             "Raw Bird Drumstick",
             "Oil Jar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/97/Deep-Fried_Drumstick_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -395,7 +355,6 @@
             "Raw Bird Thigh",
             "Oil Jar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/4e/Deep-Fried_Thigh_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -405,7 +364,6 @@
             "Raw Whole Bird",
             "Oil Jar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/57/Deep-Fried_Bird_Roast_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -416,7 +374,6 @@
             "Goat Butter",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/40/Seafood_Meuni%C3%A8re_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -427,7 +384,6 @@
             "Goat Butter",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/be/Porgy_Meuni%C3%A8re_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -438,7 +394,6 @@
             "Goat Butter",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/df/Salmon_Meuni%C3%A8re_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -448,7 +403,6 @@
             "Any Fruit",
             "Any Mushroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/ea/Fruit_and_Mushroom_Mix_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -457,7 +411,6 @@
         "ingredients": [
             "Any Fruit"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3c/Simmered_Fruit_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -466,7 +419,6 @@
         "ingredients": [
             "Any Four Different Fruit"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/59/Copious_Simmered_Fruit_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -475,7 +427,6 @@
         "ingredients": [
             "Hylian Tomato"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/8c/Simmered_Tomato_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -486,7 +437,6 @@
             "Rock Salt",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/04/Fruity_Tomato_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -496,7 +446,6 @@
             "Hylian Tomato",
             "Any Mushroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/86/Tomato_Mushroom_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -506,7 +455,6 @@
             "Hylian Tomato",
             "Any Seafood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9f/Tomato_Seafood_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -517,7 +465,6 @@
             "Rock Salt",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/bf/Cream_of_Vegetable_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -528,7 +475,6 @@
             "Rock Salt",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/73/Veggie_Cream_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -540,7 +486,6 @@
             "Rock Salt",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/d0/Cream_of_Mushroom_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -552,7 +497,6 @@
             "Rock Salt",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/37/Creamy_Meat_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -564,7 +508,6 @@
             "Rock Salt",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/98/Creamy_Seafood_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -576,7 +519,6 @@
             "Fresh Milk",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/28/Snail_Chowder_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -588,7 +530,6 @@
             "Voltfruit",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/cd/Creamy_Heart_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -598,7 +539,6 @@
             "Any Herb, Flower, or Vegetable",
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f0/Glazed_Veggies_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -608,7 +548,6 @@
             "Any Mushroom",
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/32/Glazed_Mushrooms_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -618,7 +557,6 @@
             "Any Meat",
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/16/Glazed_Meat_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -628,7 +566,6 @@
             "Any Seafood",
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/4a/Glazed_Seafood_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -638,7 +575,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/33/Curry_Rice_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -649,7 +585,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9f/Vegetable_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -660,7 +595,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/00/Meat_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -671,7 +605,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/99/Prime_Meat_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -682,7 +615,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3d/Gourmet_Meat_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -693,7 +625,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c8/Poultry_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -704,7 +635,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/d2/Prime_Poultry_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -715,7 +645,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e4/Gourmet_Poultry_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -726,7 +655,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c1/Seafood_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -737,7 +665,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9d/Cheesy_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -749,7 +676,6 @@
             "Fresh Milk",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9e/Carrot_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -761,7 +687,6 @@
             "Fresh Milk",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/22/Pumpkin_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -773,7 +698,6 @@
             "Fresh Milk",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/a9/Meat_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -785,7 +709,6 @@
             "Fresh Milk",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/34/Prime_Meat_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -797,7 +720,6 @@
             "Fresh Milk",
             "Tabantha Wheat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f4/Gourmet_Meat_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -807,7 +729,6 @@
             "Any Pumpkin",
             "Any Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f9/Meat-Stuffed_Pumpkin_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -819,7 +740,6 @@
             "Rock Salt",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/a7/Vegetable_Risotto_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -831,7 +751,6 @@
             "Rock Salt",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/bd/Mushroom_Risotto_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -843,7 +762,6 @@
             "Rock Salt",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/aa/Salmon_Risotto_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -855,7 +773,6 @@
             "Rock Salt",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1c/Crab_Risotto_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -867,7 +784,6 @@
             "Rock Salt",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/47/Cheesy_Risotto_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -879,7 +795,6 @@
             "Bird Egg",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/52/Poultry_Pilaf_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -891,7 +806,6 @@
             "Bird Egg",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/50/Prime_Poultry_Pilaf_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -903,7 +817,6 @@
             "Bird Egg",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f1/Gourmet_Poultry_Pilaf_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -916,7 +829,6 @@
             "Goat Butter",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/8f/Seafood_Paella_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -927,7 +839,6 @@
             "Goat Butter",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/a3/Curry_Pilaf_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -937,7 +848,6 @@
             "Bird Egg",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Fried_Egg_and_Rice_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -949,7 +859,6 @@
             "Bird Egg",
             "Oil Jar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1b/Crunchy_Fried_Rice_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -960,7 +869,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/61/Seafood_Fried_Rice_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -972,7 +880,6 @@
             "Rock Salt",
             "Bird Egg"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/10/Crab_Omelet_with_Rice_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -983,7 +890,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/59/Meat_and_Rice_Bowl_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -994,7 +900,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c4/Prime_Meat_and_Rice_Bowl_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1005,7 +910,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f1/Gourmet_Meat_and_Rice_Bowl_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1017,7 +921,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1b/Cheesy_Meat_Bowl_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1029,7 +932,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/95/Prime_Cheesy_Meat_Bowl_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1041,7 +943,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c3/Gourmet_Cheesy_Meat_Bowl_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1051,7 +952,6 @@
             "Any Herb, Flower, or Vegetable",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/ab/Veggie_Rice_Balls_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1061,7 +961,6 @@
             "Any Mushroom",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/20/Mushroom_Rice_Balls_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1071,7 +970,6 @@
             "Any Meat",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e2/Meaty_Rice_Balls_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1081,7 +979,6 @@
             "Any Seafood",
             "Hylian Rice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1b/Seafood_Rice_Balls_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1092,7 +989,6 @@
             "Hylian Rice",
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c0/Veggie_Porridge_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1102,7 +998,6 @@
             "Tabantha Wheat",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/32/Wheat_Bread_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1113,7 +1008,6 @@
             "Tabantha Wheat",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/89/Melty_Cheesy_Bread_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1124,7 +1018,6 @@
             "Tabantha Wheat",
             "Hylian Tomato"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/20/Hylian_Tomato_Pizza_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1136,7 +1029,6 @@
             "Goat Butter",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/09/Meat_Pie_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1148,7 +1040,6 @@
             "Goat Butter",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/4a/Fish_Pie_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1158,7 +1049,6 @@
             "Hateno Cheese",
             "Hylian Tomato"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e2/Cheesy_Tomato_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1168,7 +1058,6 @@
             "Hateno Cheese",
             "Any Seafood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/ba/Cheesy_Baked_Fish_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1178,7 +1067,6 @@
             "Bird Egg",
             "Optional: Any Other Ingredients So Long As They Do Not Complete Another Recipe"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/ec/Omelet_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1190,7 +1078,6 @@
             "Goat Butter",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/23/Vegetable_Omelet_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1202,7 +1089,6 @@
             "Goat Butter",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/fe/Mushroom_Omelet_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1215,7 +1101,6 @@
             "Goat Butter",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/0c/Cheesy_Omelet_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1225,7 +1110,6 @@
             "Any Apple",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/ca/Hot_Buttered_Apple_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1235,7 +1119,6 @@
             "Any Fruit (Excluding Apples)",
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/5c/Honeyed_Fruits_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1245,7 +1128,6 @@
             "Any Apple",
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/28/Honeyed_Apple_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1254,7 +1136,6 @@
         "ingredients": [
             "Courser Bee Honey"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/13/Honey_Candy_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1265,7 +1146,6 @@
             "Tabantha Wheat",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/b6/Fried_Bananas_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1276,7 +1156,6 @@
             "Fresh Milk",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9b/Egg_Pudding_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1288,7 +1167,6 @@
             "Fresh Milk",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2d/Plain_Crepe_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1301,7 +1179,6 @@
             "Fresh Milk",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/68/Wildberry_Crepe_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1314,7 +1191,6 @@
             "Fresh Milk",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/63/Honey_Crepe_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1326,7 +1202,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1f/Nutcake_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1338,7 +1213,6 @@
             "Tabantha Wheat",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2a/Fruitcake_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1350,7 +1224,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f2/Carrot_Cake_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1362,7 +1235,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/8b/Pumpkin_Pie_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1374,7 +1246,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/51/Cheesecake_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1386,7 +1257,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/fe/Fruit_Pie_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1398,7 +1268,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/6f/Apple_Pie_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1410,7 +1279,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e2/Egg_Tart_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1419,7 +1287,6 @@
         "ingredients": [
             "Fresh Milk"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/ce/Milk_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1431,7 +1298,6 @@
             "Voltfruit",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c4/Noble_Pursuit_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1442,7 +1308,6 @@
             "Any Seafood",
             "Monster Extract"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1a/Monster_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1454,7 +1319,6 @@
             "Fresh Milk",
             "Monster Extract"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/56/Monster_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1465,7 +1329,6 @@
             "Goron Spice",
             "Monster Extract"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9a/Monster_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1476,7 +1339,6 @@
             "Rock Salt",
             "Monster Extract"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/26/Monster_Rice_Balls_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1488,7 +1350,6 @@
             "Goat Butter",
             "Monster Extract"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1e/Monster_Cake_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1499,7 +1360,6 @@
             "Any Meat",
             "Any Seafood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/58/Dark_Stew_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1511,7 +1371,6 @@
             "Fresh Milk",
             "Goat Butter"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/6d/Dark_Soup_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1522,7 +1381,6 @@
             "Hylian Rice",
             "Goron Spice"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e3/Dark_Curry_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1533,7 +1391,6 @@
             "Hylian Rice",
             "Rock Salt"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/cd/Dark_Rice_Ball_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1545,7 +1402,6 @@
             "Goat Butter",
             "Cane Sugar"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/10/Dark_Cake_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1554,7 +1410,6 @@
         "ingredients": [
             "Any combination of incompatible ingredients"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c4/Dubious_Food_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1563,7 +1418,6 @@
         "ingredients": [
             "Any Gem or Wood"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2f/Rock-Hard_Food_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -1572,7 +1426,6 @@
         "ingredients": [
             "Apple"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/4d/Baked_Apple_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1581,7 +1434,6 @@
         "ingredients": [
             "Golden Apple"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/84/Baked_Golden_Apple_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1590,7 +1442,6 @@
         "ingredients": [
             "Spicy Pepper"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f3/Charred_Pepper_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1599,7 +1450,6 @@
         "ingredients": [
             "Hylian Tomato"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/30/Roasted_Hylian_Tomato_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1608,7 +1458,6 @@
         "ingredients": [
             "Wildberry"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/b0/Roasted_Wildberry_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1617,7 +1466,6 @@
         "ingredients": [
             "Voltfruit"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/bf/Roasted_Voltfruit_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1626,7 +1474,6 @@
         "ingredients": [
             "Hydromelon"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/16/Roasted_Hydromelon_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1635,7 +1482,6 @@
         "ingredients": [
             "Palm Fruit"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/88/Baked_Palm_Fruit_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1644,7 +1490,6 @@
         "ingredients": [
             "Mighty Bananas"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/18/Roasted_Mighty_Bananas_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1653,7 +1498,6 @@
         "ingredients": [
             "Lotus Seeds"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/de/Roasted_Lotus_Seeds_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1662,7 +1506,6 @@
         "ingredients": [
             "Mighty Thistle"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/5b/Roasted_Mighty_Thistle_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1671,7 +1514,6 @@
         "ingredients": [
             "Armoranth"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/ae/Roasted_Armoranth_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1680,7 +1522,6 @@
         "ingredients": [
             "Swift Carrot"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/34/Roasted_Swift_Carrot_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1689,7 +1530,6 @@
         "ingredients": [
             "Endura Carrot"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/a3/Roasted_Endura_Carrot_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1698,7 +1538,6 @@
         "ingredients": [
             "Fortified Pumpkin"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/61/Baked_Fortified_Pumpkin_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1707,7 +1546,6 @@
         "ingredients": [
             "Sun Pumpkin"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/60/Baked_Sun_Pumpkin_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1716,7 +1554,6 @@
         "ingredients": [
             "Hearty Radish"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/73/Roasted_Radish_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1725,7 +1562,6 @@
         "ingredients": [
             "Big Hearty Radish"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e8/Roasted_Big_Radish_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1734,7 +1570,6 @@
         "ingredients": [
             "Skyshroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/bc/Toasty_Skyshroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1743,7 +1578,6 @@
         "ingredients": [
             "Hylian Shroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/76/Toasty_Hylian_Shroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1752,7 +1586,6 @@
         "ingredients": [
             "Stamella Shroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/00/Toasty_Stamella_Shroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1761,7 +1594,6 @@
         "ingredients": [
             "Rushroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/68/Toasty_Rushroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1770,7 +1602,6 @@
         "ingredients": [
             "Sunshroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/29/Toasty_Sunshroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1779,7 +1610,6 @@
         "ingredients": [
             "Chillshroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/48/Toasty_Chillshroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1788,7 +1618,6 @@
         "ingredients": [
             "Zapshroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c8/Toasty_Zapshroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1797,7 +1626,6 @@
         "ingredients": [
             "Razorshroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/57/Toasty_Razorshroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1806,7 +1634,6 @@
         "ingredients": [
             "Ironshroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/55/Toasty_Ironshroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1815,7 +1642,6 @@
         "ingredients": [
             "Silent Shroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/ea/Toasty_Silent_Shroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1824,7 +1650,6 @@
         "ingredients": [
             "Brightcap"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/38/Toasty_Brightcap_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1833,7 +1658,6 @@
         "ingredients": [
             "Endura Shroom"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/ac/Toasty_Endura_Shroom_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1842,7 +1666,6 @@
         "ingredients": [
             "Hearty Truffle"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/29/Toasted_Hearty_Truffle_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1851,7 +1674,6 @@
         "ingredients": [
             "Big Hearty Truffle"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/fd/Toasted_Big_Hearty_Truffle_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1860,7 +1682,6 @@
         "ingredients": [
             "Raw Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Seared_Steak_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1869,7 +1690,6 @@
         "ingredients": [
             "Raw Prime Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/60/Seared_Prime_Steak_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1878,7 +1698,6 @@
         "ingredients": [
             "Raw Gourmet Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3e/Seared_Gourmet_Steak_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1887,7 +1706,6 @@
         "ingredients": [
             "Raw Bird Drumstick"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e9/Roasted_Bird_Drumstick_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1896,7 +1714,6 @@
         "ingredients": [
             "Raw Bird Thigh"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/38/Roasted_Bird_Thigh_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1905,7 +1722,6 @@
         "ingredients": [
             "Raw Whole Bird"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/f/f6/Roasted_Whole_Bird_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1914,7 +1730,6 @@
         "ingredients": [
             "Ancient Arowana"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/ce/Roasted_Arowana_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1923,7 +1738,6 @@
         "ingredients": [
             "Hyrule Bass"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/75/Roasted_Bass_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1932,7 +1746,6 @@
         "ingredients": [
             "Any Trout"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9d/Roasted_Trout_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1941,7 +1754,6 @@
         "ingredients": [
             "Any Carp"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/01/Roasted_Carp_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1950,7 +1762,6 @@
         "ingredients": [
             "Any Porgy"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/78/Roasted_Porgy_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1959,7 +1770,6 @@
         "ingredients": [
             "Glowing Cave Fish"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/49/Roasted_Cave_Fish_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1968,7 +1778,6 @@
         "ingredients": [
             "Hearty Bass"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/05/Roasted_Hearty_Bass_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1977,7 +1786,6 @@
         "ingredients": [
             "Hearty Salmon"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/6a/Roasted_Hearty_Salmon_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1986,7 +1794,6 @@
         "ingredients": [
             "Any Crab"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/a/a1/Blackened_Crab_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -1995,7 +1802,6 @@
         "ingredients": [
             "Sneaky River Snail"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3d/Sneaky_River_Escargot_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -2004,7 +1810,6 @@
         "ingredients": [
             "Chickaloo Tree Nut"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/22/Roasted_Tree_Nut_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -2013,7 +1818,6 @@
         "ingredients": [
             "Acorn"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3e/Roasted_Acorn_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -2022,7 +1826,6 @@
         "ingredients": [
             "Bird Egg"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/90/Campfire_Egg_-_TotK_icon.png",
         "method": "extreme_heat"
     },
     {
@@ -2031,7 +1834,6 @@
         "ingredients": [
             "Bird Egg"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/97/Hard-Boiled_Egg_-_TotK_icon.png",
         "method": "hot_spring"
     },
     {
@@ -2040,7 +1842,6 @@
         "ingredients": [
             "Raw Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/8a/Icy_Meat_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2049,7 +1850,6 @@
         "ingredients": [
             "Raw Prime Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/55/Icy_Prime_Meat_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2058,7 +1858,6 @@
         "ingredients": [
             "Raw Gourtmet Meat"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/c/c5/Icy_Gourmet_Meat_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2067,7 +1866,6 @@
         "ingredients": [
             "Raw Bird Drumstick"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/60/Frozen_Bird_Drumstick_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2076,7 +1874,6 @@
         "ingredients": [
             "Raw Bird Thigh"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/d/dc/Frozen_Bird_Thigh_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2085,7 +1882,6 @@
         "ingredients": [
             "Raw Whole Bird"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/47/Frozen_Whole_Bird_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2094,7 +1890,6 @@
         "ingredients": [
             "Ancient Arowana"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/b/b8/Frozen_Arowana_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2103,7 +1898,6 @@
         "ingredients": [
             "Hyrule Bass"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/87/Frozen_Bass_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2112,7 +1906,6 @@
         "ingredients": [
             "Any Trout"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/74/Frozen_Trout_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2121,7 +1914,6 @@
         "ingredients": [
             "Any Carp"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e5/Frozen_Carp_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2130,7 +1922,6 @@
         "ingredients": [
             "Any Porgy"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/6/6b/Frozen_Porgy_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2139,7 +1930,6 @@
         "ingredients": [
             "Glowing Cave Fish"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/e0/Frozen_Cave_Fish_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2148,7 +1938,6 @@
         "ingredients": [
             "Hearty Bass"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/80/Frozen_Hearty_Bass_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2157,7 +1946,6 @@
         "ingredients": [
             "Hearty Salmon"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/5/53/Frozen_Hearty_Salmon_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2166,7 +1954,6 @@
         "ingredients": [
             "Any Crab"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/76/Frozen_Crab_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2175,7 +1962,6 @@
         "ingredients": [
             "Sneaky River Snail"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/7/71/Frozen_River_Snail_-_TotK_icon.png",
         "method": "extreme_cold"
     },
     {
@@ -2185,7 +1971,6 @@
             "Restless Cricket or Energetic Rhino Beetle",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2b/Energizing_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2195,7 +1980,6 @@
             "Hot-Footed Frog or Hightail Lizard",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/4/42/Hasty_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2205,7 +1989,6 @@
             "Summerwing Butterfly or Warm Darner",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3b/Spicy_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2215,7 +1998,6 @@
             "Winterwing Butterfly or Cold Darner",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/1/1f/Chilly_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2225,7 +2007,6 @@
             "Thunderwing Butterfly or Electric Darner",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/88/Electro_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2235,7 +2016,6 @@
             "Fireproof Lizard or Smotherwing Butterfly",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/3b/Fireproof_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2245,7 +2025,6 @@
             "Bladed Rhino Beetle",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2c/Mighty_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2255,7 +2034,6 @@
             "Rugged Rhino Beetle",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/e/ec/Tough_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2265,7 +2043,6 @@
             "Sunset Firefly ",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/03/Sneaky_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2275,7 +2052,6 @@
             "Sticky Frog or Sticky Lizard",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9f/Sticky_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2285,7 +2061,6 @@
             "Deep Firefly",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/3/34/Bright_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2295,7 +2070,6 @@
             "Tireless Frog",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/0/0e/Enduring_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2305,16 +2079,14 @@
             "Hearty Lizard",
             "Any Monster Part"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/9/9b/Hearty_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
         "id": 228,
         "name": "Fairy Tonic",
         "ingredients": [
-            "Fairy"  
+            "Fairy"
         ],
-        "image": "https://www.zeldadungeon.net/wiki/images/8/8b/Fairy_Tonic_-_TotK_icon.png",
         "method": "pot"
     }
 ]
