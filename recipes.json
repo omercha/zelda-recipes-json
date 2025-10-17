@@ -66,11 +66,10 @@
     },
     {
         "id": 8,
-        "name": "Copious Fish Skewers",
+        "name": "Copious Seafood Skewers",
         "ingredients": [
             "Any four different Fish"
         ],
-        "effect": null,
         "image": "https://www.zeldadungeon.net/wiki/images/0/03/Copious_Seafood_Skewers_-_TotK_icon.png",
         "method": "pot"
     },
